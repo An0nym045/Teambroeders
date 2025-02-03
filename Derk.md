@@ -1,1 +1,3 @@
 Derk
+
+ik zou gaan voor GitFlow, dit omdat dit een grotere controle geeft over de branches en de merges. hierdoor kan je als developer ook betere verantwoording afleggen over wat je gemaakt hebt en is de zekerheid hoger dat het werkt en stabiel blijft werken.
